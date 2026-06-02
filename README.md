@@ -1,6 +1,6 @@
 # Hi, I'm Richa 👋
 
-AI/ML Engineer building intelligent, real-world systems — multi-agent pipelines, RAG applications, and LLM-powered tools with social impact.
+AI/ML Engineer building intelligent, real-world systems, multi-agent pipelines, RAG applications, and LLM-powered tools with social impact.
 
 Currently working and open to new opportunities.
 
