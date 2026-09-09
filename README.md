@@ -15,13 +15,14 @@ Currently working and open to new opportunities.
 | [MarketMind](https://github.com/richakumari0311/MarketMind) | Multi-agent AI marketing campaign generator — research, strategy, content, and critique agents with live SSE streaming and memory across runs | Google ADK, FastAPI, Ollama/Anthropic, Serper API |
 | [RAG Knowledge Assistant](https://github.com/richakumari0311/rag-knowledge-assistant) | Ask questions over your own documents with source attribution | LangChain, FAISS, Ollama, Streamlit |
 | [AI Support Bot](https://github.com/richakumari0311/ai-support-bot) | Fully offline AI customer support bot — no API keys, no cloud | Ollama, LangChain, ChromaDB, Gradio |
+| [Wayfair Supply Chain Trend Monitor](https://github.com/richakumari0311/n8n-supply-chain-trend-agent) | AI agent pipeline monitoring market trends and competitor activity — merges Google Trends and news data, uses a Gemini agent to generate content ideas, competitor summaries, and risk flags into a live automated dashboard | n8n, Gemini, SerpApi, Google Sheets, Data Studio |
 
 ---
 
 ## 🛠️ Tech Stack
 
-`Python` `LangChain` `CrewAI` `Google ADK` `FAISS` `ChromaDB` `Ollama` `Gemini` `Groq` `HuggingFace` `FastAPI` `Streamlit` `Gradio`
-
+   `Python` `LangChain` `CrewAI` `Google ADK` `n8n` `FAISS` `ChromaDB` `Ollama` `Gemini` `Groq` `HuggingFace` `FastAPI` `Streamlit` `Gradio`
+   
 ---
 
 ## 📬 Let's Connect
