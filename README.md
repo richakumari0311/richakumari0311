@@ -17,7 +17,6 @@ I'm a GenAI engineer based in Bengaluru with 3+ years of experience building LLM
 👯 &nbsp;I'm looking to collaborate on **open-source RAG and agent tools, or AI for underserved communities**  
 🤔 &nbsp;I'm looking for help with **deploying multi-agent apps beyond free-tier hosting**  
 💬 &nbsp;Ask me about **RAG pipelines, multi-agent systems (LangGraph, CrewAI), hallucination mitigation and LLM evaluation, voice AI in Indian languages**  
-😄 &nbsp;Pronouns: **She/Her**
 
 ### 📂 Featured Projects
 
@@ -76,6 +75,12 @@ Marketing campaign generator with research, strategy, content and critique agent
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=richakumari0311&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=richakumari0311&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=richakumari0311&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
